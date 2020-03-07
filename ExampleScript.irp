@@ -1,0 +1,9 @@
+#iNTER
+
+#	The first string "#iNTER" is necessary. It's like #!/bin/bash in Linux
+#	You can mark comments by using '#' character.
+
+help
+	version;				#This comment is legal too
+		pwd; foo 3 5
+		exit
